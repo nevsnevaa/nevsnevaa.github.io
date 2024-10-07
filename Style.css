@@ -1,0 +1,41 @@
+body {
+font-family: 'Aria,',sans-serif;
+margin: 0;
+padding 0;
+background-color:f7f9fc;
+}
+header{
+background-color: #4CAF50;
+color: white
+text-align: center;
+padding: 20px
+}
+nav {
+display: fle;
+justify-content: center;
+background-color: #333
+padding: 10px;
+}
+nav a {
+color: white;
+padding: 14px 20px;
+text-decoration: none;
+text-align: center;
+}
+nav:ahover {
+background-color: #ddd;
+color:black;
+]
+section {
+padding: 20px;
+margin: 20px auto;
+width: 80%;
+background-color: white;
+box-shadow: 0 0 10px rgba (0,0,0,0.1);
+}
+footer{
+background-color: #333;
+color:white;
+text-align: center;
+padding:10px;
+}
